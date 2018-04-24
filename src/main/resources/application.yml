@@ -16,6 +16,6 @@ logging.level:
   org.superbiz.moviefun: DEBUG
 
 s3:
-  accessKey: <access key id>
-  secretKey: <secret access key>
-  bucketName: <name of the bucket>
+  accessKey: RNMQJJ7IB4T3PKE4VKBM
+  secretKey: p8gRn6FRJBq4xycIoJbQQsK6w+fihm5ojiHax88q
+  bucketName: moviefun
